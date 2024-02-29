@@ -24,3 +24,6 @@ body, top-bar, main-bar, login-right {
     display: flex;
     justify-content: space-around;
 }
+body, main-content{
+
+}
